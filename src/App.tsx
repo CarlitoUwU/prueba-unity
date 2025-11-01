@@ -1,4 +1,3 @@
-import React from "react";
 import UnityGame from "./components/UnityGame";
 
 function App() {
